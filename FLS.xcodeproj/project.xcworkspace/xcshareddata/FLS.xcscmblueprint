@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3EB581DEFE00D7E3D8CF5C6C51DE82A98395E8F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BBF33DA7B2D45A300ED0F645931D1420E4C065EC" : 0,
+    "3EB581DEFE00D7E3D8CF5C6C51DE82A98395E8F2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D71506A5-3385-4B2C-BD90-3C493FB03C31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BBF33DA7B2D45A300ED0F645931D1420E4C065EC" : "",
+    "3EB581DEFE00D7E3D8CF5C6C51DE82A98395E8F2" : "iOS_FLS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FLS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FLS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:ikegps\/popeye-fpga-flasher-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EB581DEFE00D7E3D8CF5C6C51DE82A98395E8F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:ikegps\/popeye-bootloader-app-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBF33DA7B2D45A300ED0F645931D1420E4C065EC"
+    }
+  ]
+}
